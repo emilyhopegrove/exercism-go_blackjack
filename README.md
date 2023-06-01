@@ -107,4 +107,4 @@ FirstTurn("five", "queen", "ace") == "H"
 
 - @tehsphinx
 - @andrerfcsantos
-- @norbs57
+- @norbs57# exercism-go_blackjack
